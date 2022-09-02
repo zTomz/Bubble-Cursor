@@ -1,6 +1,6 @@
 ## 0.0.1
 
-A package to have a nice cursor.
+A package to have a nice bubble cursor cursor.
 
 # How to use
 To use the package simply wrap a widget of your page or the whole screen with the BubbleCursor widget. Then add some customization and you are ready to go!
