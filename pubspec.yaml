@@ -1,7 +1,7 @@
 name: bubble_cursor
 description: Bubble Mouse adds a bubble to your cursor, wich follows also your cursor.
 version: 0.0.1
-homepage:
+homepage: https://github.com/zTomz/Bubble-Cursor
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
